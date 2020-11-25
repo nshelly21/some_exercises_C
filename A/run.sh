@@ -1,4 +1,4 @@
-#bin/sh
+#!/bin/bash
 
 gcc -o printer printer.c
 gcc -o otf otf.c
